@@ -1,5 +1,7 @@
 # prog2006-BCS250004-VuCongDucAnh
 
+bai 1
+
 #include <iostream>
 
 using namespace std;
